@@ -5,18 +5,24 @@
 
 ## Data Description
 /id: 
-- item id的train.txt和test.txt
+- item(id): train.txt and test.txt are followed by conventional data processing method in sequential recommendation task
 - semantic(id): Classification information obtained by the four models based on item id
+
 /id_image: 
 - semantic(id + image)
+  
 /id_text: 
 - semantic(id + text)
+  
 /id_text_image: 
 - semantic(id + text + image)
+  
 /image: 
 - semantic(image)
+  
 /text: 
 - semantic(text)
+  
 /text_image: 
 - semantic(text + image)
 
