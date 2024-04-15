@@ -4,7 +4,8 @@
 **PyTorch** implementation of [Semantic Codebook Learning for Dynamic Recommendation Models](https://anonymous.4open.science/r/SOLID-0324) on **Sequential Recommendation** task based on **DIN, GRU4Rec, SASRec, BERT4Rec, APG, DUET**. 
 
 ## Data and Data Description
-Preprocessed data can be found in https://drive.google.com/drive/folders/1a7IkxsB6LrMOyGhYmStMOtGeG7OxAnkL?usp=drive_link
+Preprocessed dataset Arts can be found in [link](https://drive.google.com/drive/folders/1a7IkxsB6LrMOyGhYmStMOtGeG7OxAnkL?usp=drive_link)
+
 /id: 
 - item(id): train.txt and test.txt are followed by conventional data processing method in sequential recommendation task
 - semantic(id): Classification information obtained by the four models based on item id
