@@ -3,6 +3,7 @@
 ------
 **PyTorch** implementation of [Semantic Codebook Learning for Dynamic Recommendation Models](https://anonymous.4open.science/r/SOLID-0324) on **Sequential Recommendation** task based on **DIN, GRU4Rec, SASRec, BERT4Rec, APG, DUET**. 
 
+## Data Description
 /id: 
 - item id的train.txt和test.txt
 - semantic(id): Classification information obtained by the four models based on item id
