@@ -1,0 +1,8 @@
+{
+  "id_dimension": 32,
+  "item_id_vocab": 1600,
+  "category_id_vocab": 550,
+  "classifier": [128, 64],
+  "mlp_layers": 2,
+  "nhead": 4
+}
